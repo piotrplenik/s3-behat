@@ -1,5 +1,5 @@
 {
-    "name": "jupeter\s3-behat",
+    "name": "jupeter/s3-behat",
     "autoload": {
         "psr-0" : {
             "Jupeter\\S3Behat" : "src"
