@@ -1,6 +1,7 @@
 {
     "name": "jupeter/s3-behat",
     "description": "Symfony 3 + Behat",
+    "license": "MIT",
     "require": {
         "php": "^5.3.3 || ^7.0",
         "another-vendor/package": "1.*"
