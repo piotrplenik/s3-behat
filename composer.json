@@ -4,7 +4,7 @@
     "license": "MIT",
     "require": {
         "php": "^5.3.3 || ^7.0",
-        "another-vendor/package": "1.*"
+        "behat/behat": "^3.3"
     },
     "minimum-stability": "dev"
 }
