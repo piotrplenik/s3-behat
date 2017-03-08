@@ -8,7 +8,7 @@
             "email": "piotr.plenik@gmail.com"
         }
     ],
-    "require-dev": {
+    "require": {
         "php": "^5.3.3 || ^7.0",
         "behat/behat": "^3.3",
         "behat/mink": "^1.7",
