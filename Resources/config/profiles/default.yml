@@ -45,10 +45,6 @@ default:
                 class: TestAppKernel
                 path: vendor/jupeter/s3-behat/src/TestAppKernel.php
 
-        FriendsOfBehat\ContextServiceExtension:
-            imports:
-                - "src/Sylius/Behat/Resources/config/services.xml"
-
         FriendsOfBehat\CrossContainerExtension: ~
 
         FriendsOfBehat\PerformanceExtension: ~
